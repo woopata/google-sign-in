@@ -49,8 +49,7 @@
 		      		\'clientid\': \'' . $_SESSION['clientid'] . '\',
 		      		\'cookiepolicy\': \'single_host_origin\',
 		      		\'requestvisibleactions\': \'http://schemas.google.com/AddActivity\',
-		      		\'scope\': \'https://www.googleapis.com/auth/plus.login email\',
-		      		\'origin\': \'http://google-sign-in.herokuapp.com\'
+		      		\'scope\': \'https://www.googleapis.com/auth/plus.login email\'
 		    	});
 		  	}
       	</script>
